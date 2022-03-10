@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>4 задания</title> 
+<style>
+li {
+font-size: 20px;
+}
+.mac {
+margin-left: 2%;
+}
+</style>
+</head>
+<body>
+<li>Круги</li>
+<div class="mac">
+<img src="Circle.jpg" width="150px">
+<img src="Circle1.png" width="150px">
+</div>
+<li>Квадраты</li>
+<img src="Square.png" width="150px"><img src="Square1.png" width="150px">
+
+
+</body>
+</html>

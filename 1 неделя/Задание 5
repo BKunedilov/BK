@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bakhytzhan</title>
+<link rel="stylesheet" href="cssZadanie5.css" type="text/css">
+</head>
+<body>
+<div class="block1">
+<input type="text" class="text" placeholder="BAKHYTZHAN">
+<input type="button" class="button" value="KUNEDILOV">
+</div>
+</br>
+<div class="block2">
+<input type="text" class="text_one" value="Bakhyzthan">
+<input type="button" class="button_one" value="Kunedilov">
+</div>
+</body>
+</html>
